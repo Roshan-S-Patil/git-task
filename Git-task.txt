@@ -1,2 +1,5 @@
 This is the file
 this is the line of conflict.
+
+
+Hello how are you?
