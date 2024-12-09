@@ -1,2 +1,2 @@
 This is the file
-this is the line of conflict
+this is the line of conflict.
